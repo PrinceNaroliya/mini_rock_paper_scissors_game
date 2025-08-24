@@ -15,9 +15,9 @@ This is a beginner-friendly project to practice **if-else conditions, loops, and
 
 ## 📸 Example Gameplay
 ---Rock Paper Scissor---<br>
-Enter a option (rock/paper/scissor or exit): rock<br>
-Computer chose: paper<br>
-You Lose!<br>
+- Enter a option (rock/paper/scissor or exit): rock<br>
+- Computer chose: paper<br>
+- You Lose!<br>
 
 ## 📚 What I Learned
 - Using the **random.choice()** function
@@ -25,8 +25,8 @@ You Lose!<br>
 - Using **loops** and **if-else conditions**
 - Writing beginner-friendly Python code
 
-## 📚 What I Learned
-- Using the **random.choice()** function
-- Handling user input
-- Using **loops** and **if-else conditions**
-- Writing beginner-friendly Python code
+## 🧑‍💻 Who is this for?
+This project is great for:
+- Beginners learning **Python basics**
+- Students practicing **decision-making (if-else)**
+- Anyone who wants to start building small projects before moving to advanced ones
