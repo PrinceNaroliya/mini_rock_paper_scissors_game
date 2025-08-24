@@ -14,10 +14,10 @@ This is a beginner-friendly project to practice **if-else conditions, loops, and
 ---
 
 ## 📸 Example Gameplay
----Rock Paper Scissor---
-Enter a option (rock/paper/scissor or exit): rock
-Computer chose: paper
-You Lose!
+---Rock Paper Scissor---<br>
+Enter a option (rock/paper/scissor or exit): rock<br>
+Computer chose: paper<br>
+You Lose!<br>
 
 ## 📚 What I Learned
 - Using the **random.choice()** function
